@@ -61,3 +61,10 @@ Before settling on a mobile app, we briefly considered a browser extension and a
 | **Dolce** | Takes messy, low-effort input and organizes, warns, and protects for the user, with a companion that makes rest feel rewarding. |
 
 This project started from personal experience — one of our team members struggles with burnout and finds existing organizational tools like Notion themselves a source of overwhelm. Dolce is built to solve that specific gap.
+
+
+## 🤝 Mentor Consultation
+
+| Date | Mentor | Feedback Received | What Was Changed |
+| --- | --- | --- | --- |
+| 13/9/2026, 21:15 | *[mentor name]* | Pointed out that our feature list didn't clearly cover the calendar/Time-management side of the app, and advised us to add more standout features to differentiate Dolce further. | Clarified Time as its own structural feature — Dolce watches the calendar in the background for overlapping bookings and deadline stacking, rather than treating it as a user-logged category. We also expanded on our standout features (Dolce Blocks, Pomodoro sessions, and AI auto-classification) in the README to make the differentiation clearer. |
